@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<books>
+    <book>
+        <title>Book1</title>
+        <author>Author1</author>
+        <price>${BOOK1_PRICE}</price>
+    </book>
+    <book>
+        <title>Book2</title>
+        <author>Author2</author>
+        <price>${BOOK2_PRICE}</price>
+    </book>
+    <book>
+        <title>Book3</title>
+        <author>Author3</author>
+        <price>${BOOK3_PRICE}</price>
+    </book>
+    <book>
+        <title>Book4</title>
+        <author>Author4</author>
+        <price>${BOOK4_PRICE}</price>
+    </book>
+</books>
